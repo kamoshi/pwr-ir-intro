@@ -1,0 +1,15 @@
+test = [
+  "DCEP/strip/xml/EN/AGENDA/33695617__AGENDA__20120417__EN.txt", # 1
+  "DCEP/strip/xml/EN/AGENDA/33522030__AGENDA__20120328__EN.txt", # 2
+  "DCEP/strip/xml/EN/AGENDA/33341201__AGENDA__20120312__EN.txt", # 3
+  "DCEP/strip/xml/EN/AGENDA/33119249__AGENDA__20120213__EN.txt", # 4
+  "DCEP/strip/xml/EN/AGENDA/33005308__AGENDA__20120201__EN.txt", # 5
+  "DCEP/strip/xml/EN/AGENDA/32858414__AGENDA__20120116__EN.txt", # 6
+  "DCEP/strip/xml/EN/AGENDA/32453686__AGENDA__20111212__EN.txt", # 7
+  "DCEP/strip/xml/EN/AGENDA/32262848__AGENDA__20111130__EN.txt", # 8
+  "DCEP/strip/xml/EN/AGENDA/32089495__AGENDA__20111114__EN.txt", # 9
+  "DCEP/strip/xml/EN/AGENDA/31793410__AGENDA__20111024__EN.txt", # 10
+]
+
+if __name__ == "__main__":
+  print
